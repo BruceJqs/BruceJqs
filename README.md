@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,45:0f172a,100:1e293b&height=210&section=header&text=BruceJin&fontSize=56&fontColor=7fffd4&fontAlignY=38&desc=%24%20boot%20--sequence%20verbose&descAlignY=60&animation=fadeIn" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:05080f,45:0f172a,100:1e293b&height=210&section=header&text=Hi%2C%20there!&fontSize=52&fontColor=7fffd4&fontAlignY=38&desc=BruceJin%20%7C%20BruceJqs&descAlignY=60&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=900&color=7FFFD4&center=true&vCenter=true&width=980&height=66&lines=%5Bboot%5D+initializing+BruceJin+profile...;%5Bscan%5D+loading+courses%2C+labs%2C+ctf%2C+notes...;%5Bauth%5D+user%3DBruceJqs+role%3Dstudent%2Fresearcher;%5Bready%5D+security+workspace+online" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=26&pause=1100&color=7FFFD4&center=true&vCenter=true&width=980&height=66&lines=ZJU+'23+CS+%40+Zhejiang+University;ACEE+Minor+%7C+President+of+ZJUCSA;Security+Learner+%7C+Beginner+CTFer;Notes%2C+Labs%2C+Systems%2C+and+Research" alt="Typing SVG" />
 </p>
 
 <p align="center">
