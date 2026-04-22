@@ -20,7 +20,7 @@
 
 ---
 
-### `> terminal.commands`
+### 💻 Terminal Snapshot
 
 <p align="center">
   <img src="./assets/terminal-cycle.svg" alt="Animated terminal window" width="1000" />
@@ -28,7 +28,7 @@
 
 ---
 
-### `> about_me`
+### 🧐 About Me
 
 I am an undergraduate student at **Zhejiang University**, majoring in **Computer Science** and minoring in **ACEE**.  
 I keep my coursework, CTF learning, lab reports, and research notes in public repositories so they stay structured, searchable, and reusable.
@@ -42,7 +42,7 @@ My current interests mainly lie in:
 
 ---
 
-### `> tech_stack`
+### 🛠️ Tech Stack
 
 <p align="center">
   <a href="https://skillicons.dev">
@@ -60,7 +60,7 @@ My current interests mainly lie in:
 
 ---
 
-### `> selected_repositories`
+### 🚀 Featured Repositories
 
 | Repository | Direction | Description |
 | --- | --- | --- |
@@ -71,7 +71,7 @@ My current interests mainly lie in:
 
 ---
 
-### `> github_analytics`
+### 📊 GitHub Analytics
 
 <p align="center">
   <img width="52%" src="https://github-readme-stats.vercel.app/api?username=BruceJqs&show_icons=true&theme=github_dark&hide_border=true&include_all_commits=true&count_private=true&title_color=7fffd4&icon_color=7fffd4&text_color=c9d1d9&bg_color=00000000" alt="GitHub Stats" />
@@ -80,7 +80,7 @@ My current interests mainly lie in:
 
 ---
 
-### `> contribution_graph`
+### 📈 Contribution Graph
 
 <p align="center">
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=BruceJqs&theme=github-dark&hide_border=true&area=true&color=7fffd4&line=2dd4bf&point=f5d08a&title_color=7fffd4&custom_title=Contribution%20Trend" alt="Contribution Graph" />
@@ -88,7 +88,7 @@ My current interests mainly lie in:
 
 ---
 
-### `> contact`
+### 📫 Contact
 
 - GitHub: [@BruceJqs](https://github.com/BruceJqs)
 - Email: [brucejin1005@gmail.com](mailto:brucejin1005@gmail.com)
